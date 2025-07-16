@@ -1,4 +1,4 @@
-# cancel_alog_helper
+# cancel_algo_helper
 
 ## ШАГ 1. Скачайте необходимые файлы
 - <b>main.exe</b> - программа для отправки формы.
